@@ -2,26 +2,91 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
+/* base styles */
 body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+  @apply text-stone-300
 }
 
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
-  }
+h1 {
+  @apply font-bold text-3xl text-white
+}
+
+h2 {
+  @apply font-bold text-lg text-stone-200
+}
+
+main {
+  @apply  
+  mx-auto 
+  py-24 px-8 
+  min-h-screen
+  bg-stone-800
+}
+
+/* nav styles */
+nav {
+  @apply 
+    fixed
+    top-0
+    left-0 
+    right-0
+    z-10
+
+    shadow-lg
+    shadow-black
+    bg-gradient-to-tr from-amber-500 via-purple-500 to-emerald-500
+
+    pt-3
+    pb-4
+}
+
+/* button styles */
+
+
+/* card styles */
+.card{
+  @apply
+    bg-stone-700
+    rounded-lg
+    overflow-hidden
+    max-w-sm
+    transition-transform duration-300 ease-in-out 
+    hover:scale-105 
+    shadow-md
+    shadow-black
+}
+
+/* pill styles */
+.pill{
+  @apply
+    inline-block
+    text-xs 
+    px-2 
+  bg-stone-500
+    font-semibold
+    rounded-full
+    mr-1
+}
+
+.pill-big{
+  @apply
+    inline-block
+    px-2 
+    text-sm
+  bg-stone-500
+    font-semibold
+    rounded-full
+    mr-1
+}
+
+.pill-review{
+  @apply
+    inline-block
+    px-2 
+    text-sm
+    text-stone-300
+  bg-stone-600
+    font-semibold
+    rounded-full
+    mr-1
 }

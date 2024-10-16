@@ -1,0 +1,183 @@
+{
+    "albums": [
+      {
+        "id": "1",
+        "title": "2093 (P2)",
+        "artist": "Yeat",
+        "year": 2024,
+        "rank": 2,
+        "cover": "/images/2093.jpeg"
+      },
+
+      {
+        "id": "2",
+        "title": "Man On the Moon, Vol. II",
+        "artist": "Kid Cudi",
+        "year": 2010,
+        "rank": 1,
+        "cover": "/images/motm2.jpeg"
+      },
+
+      {
+        "id": "3",
+        "title": "good kid, m.A.A.d city",
+        "artist": "Kendrick Lamar",
+        "year": 2012,
+        "rank": 3,
+        "cover": "/images/gkmc.jpeg"
+      },
+
+      {
+        "id": "4",
+        "title": "Unplugged In NY",
+        "artist": "Nirvana",
+        "year": 1994,
+        "rank": 4,
+        "cover": "/images/nirvana.jpeg"
+      },
+
+      {
+        "id": "5",
+        "title": "MBDTF",
+        "artist": "Kanye West",
+        "year": 2010,
+        "rank": 6,
+        "cover": "/images/mbdtf.jpeg"
+      }, 
+
+      {
+        "id": "6",
+        "title": "Blonde",
+        "artist": "Frank Ocean",
+        "year": 2016,
+        "rank": 8,
+        "cover": "/images/blonde.jpeg"
+      },
+
+      {
+        "id": "7",
+        "title": "One Thing At A Time",
+        "artist": "Morgan Wallen",
+        "year": 2023,
+        "rank": 6,
+        "cover": "/images/otaat.jpeg"
+      }, 
+      
+      {
+        "id": "8",
+        "title": "WMWTSO",
+        "artist": "Mac Miller",
+        "year": 2013,
+        "rank": 3,
+        "cover": "/images/wmwtso.jpeg"
+      }, 
+
+      {
+        "id": "9",
+        "title": "DAYTONA",
+        "artist": "Pusha T",
+        "year": 2018,
+        "rank": 3,
+        "cover": "/images/daytona.jpeg"
+      },
+
+      {
+        "id": "10",
+        "title": "The Melodic Blue",
+        "artist": "Baby Keem",
+        "year": 2012,
+        "rank": 3,
+        "cover": "/images/melblue.jpeg"
+      },      
+
+      {
+        "id": "11",
+        "title": "The Money Store",
+        "artist": "Death Grips",
+        "year": 2012,
+        "rank": 2,
+        "cover": "/images/moneystore.jpeg"
+      },
+
+      {
+        "id": "12",
+        "title": "808s & Heartbreak",
+        "artist": "Kanye West",
+        "year": 2013,
+        "rank": 1,
+        "cover": "/images/808s.jpeg"
+      },
+
+      {
+        "id": "13",
+        "title": "Oxymoron",
+        "artist": "ScHoolboy Q",
+        "year": 2014,
+        "rank": 3,
+        "cover": "/images/oxymoron.jpeg"
+      },
+
+      {
+        "id": "14",
+        "title": "Luv is Rage 2",
+        "artist": "Lil Uzi Vert",
+        "year": 2017,
+        "rank": 3,
+        "cover": "/images/luvisrage2.jpeg"
+      },
+
+      {
+        "id": "15",
+        "title": "Cilvia Demo",
+        "artist": "Isaiah Rashad",
+        "year": 2014,
+        "rank": 3,
+        "cover": "/images/cilviademo.jpeg"
+      }, 
+
+      {
+        "id": "16",
+        "title": "Doris",
+        "artist": "Earl Sweatshirt",
+        "year": 2013,
+        "rank": 3,
+        "cover": "/images/doris.jpeg"
+      },
+
+      {
+        "id": "17",
+        "title": "Rodeo",
+        "artist": "Travis Scott",
+        "year": 2015,
+        "rank": 3,
+        "cover": "/images/rodeo.jpeg"
+      },
+
+      {
+        "id": "18",
+        "title": "To Pimp a Butterfly",
+        "artist": "Kendrick Lamar",
+        "year": 2015,
+        "rank": 3,
+        "cover": "/images/tpab.jpeg"
+      },       
+      
+      {
+        "id": "19",
+        "title": "Meet the Woo",
+        "artist": "Pop Smoke",
+        "year": 2019,
+        "rank": 3,
+        "cover": "/images/thewoo.jpeg"
+      },
+      {
+        "id": "20",
+        "title": "Apollo XXI",
+        "artist": "Steve Lacy",
+        "year": 2019,
+        "rank": 3,
+        "cover": "/images/apollo.jpeg"
+      }
+
+    ]
+  }
